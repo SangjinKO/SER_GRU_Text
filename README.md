@@ -23,3 +23,4 @@ drop out = 0.3
 *MEMO: Files (pre-trained data sets) should be locased in 'Data' folder
 
 *Reference
+Yoon, S., Byun, S., & Jung, K. (2018, December). Multimodal speech emotion recognition using audio and text. In 2018 IEEE Spoken Language Technology Workshop (SLT) (pp. 112-118). IEEE.
