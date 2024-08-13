@@ -1,4 +1,6 @@
 # SER_GRU_Text
+
+Date: 2020.01~2020.05 
  
 Speech Emotion Recognition System using GRU(Gated recurrent units, RNN)
 
